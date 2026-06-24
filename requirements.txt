@@ -1,0 +1,7 @@
+pathlib
+numpy
+matplotlib
+pandas
+scikit-learn
+tensorflow
+basic_pitch
